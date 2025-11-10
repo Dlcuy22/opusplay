@@ -1,0 +1,42 @@
+[
+  {
+    "directory": "F:/code_real/C_Project/opusplay",
+    "command": "gcc -Wall -Wextra -O2 -Iinclude -c src/core/packet_buffer.c -o obj/core/packet_buffer.o",
+    "file": "src/core/packet_buffer.c"
+  },
+  {
+    "directory": "F:/code_real/C_Project/opusplay",
+    "command": "gcc -Wall -Wextra -O2 -Iinclude -c src/core/signal_handler.c -o obj/core/signal_handler.o",
+    "file": "src/core/signal_handler.c"
+  },
+  {
+    "directory": "F:/code_real/C_Project/opusplay",
+    "command": "gcc -Wall -Wextra -O2 -Iinclude -c src/core/format_detector.c -o obj/core/format_detector.o",
+    "file": "src/core/format_detector.c"
+  },
+  {
+    "directory": "F:/code_real/C_Project/opusplay",
+    "command": "gcc -Wall -Wextra -O2 -Iinclude -c src/decoder/ogg_reader.c -o obj/decoder/ogg_reader.o",
+    "file": "src/decoder/ogg_reader.c"
+  },
+  {
+    "directory": "F:/code_real/C_Project/opusplay",
+    "command": "gcc -Wall -Wextra -O2 -Iinclude -c src/decoder/custom_opus_player.c -o obj/decoder/custom_opus_player.o",
+    "file": "src/decoder/custom_opus_player.c"
+  },
+  {
+    "directory": "F:/code_real/C_Project/opusplay",
+    "command": "gcc -Wall -Wextra -O2 -Iinclude -c src/decoder/ogg_opus_player.c -o obj/decoder/ogg_opus_player.o",
+    "file": "src/decoder/ogg_opus_player.c"
+  },
+  {
+    "directory": "F:/code_real/C_Project/opusplay",
+    "command": "gcc -Wall -Wextra -O2 -Iinclude -c src/audio/audio_callback.c -o obj/audio/audio_callback.o",
+    "file": "src/audio/audio_callback.c"
+  },
+  {
+    "directory": "F:/code_real/C_Project/opusplay",
+    "command": "gcc -Wall -Wextra -O2 -Iinclude -c src/main.c -o obj/main.o",
+    "file": "src/main.c"
+  }
+]
